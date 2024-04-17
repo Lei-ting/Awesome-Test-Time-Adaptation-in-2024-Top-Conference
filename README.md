@@ -44,4 +44,22 @@ Collect Test-Time Adaptation Papers &amp; Codes in 2024 Top Conferences (CVPR, e
 * DomainAdaptor: A Novel Approach to Test-time Adaptation
 * Rapid Network Adaptation: Learning to Adapt Neural Networks Using Test-Time Feedback
 * To Adapt or Not to Adapt? Real-Time Adaptation for Semantic Segmentation
+
+
+## NeuIPS 2023
+* Test-time Training for Matching-based Video Object Segmentation
+* Adaptive Test-Time Personalization for Federated Learning
+* Beyond Invariance: Test-Time Label-Shift Adaptation for Addressing "Spurious" Correlations
+* SwapPrompt: Test-Time Prompt Adaptation for Vision-Language Models
+* Is Heterogeneity Notorious? Taming Heterogeneity to Handle Test-Time Shift in Federated Learning
+* Test-Time Distribution Normalization for Contrastively Learned Visual-language Models
+* SoTTA: Robust Test-Time Adaptation on Noisy Data Streams
+* Diffusion-TTA: Test-time Adaptation of Discriminative Models via Generative Feedback
+* Align Your Prompts: Test-Time Prompting with Distribution Alignment for Zero-Shot Generalization
+* GraphPatcher: Mitigating Degree Bias for Graph Neural Networks via Test-time Augmentation
+* SODA: Robust Training of Test-Time Data Adaptors
+* Efficient Test-Time Adaptation for Super-Resolution with Second-Order Degradation and Reconstruction
+* RDumb: A simple approach that questions our progress in continual test-time adaptation
+* Design from Policies: Conservative Test-Time Adaptation for Offline Policy Optimization
+
   
